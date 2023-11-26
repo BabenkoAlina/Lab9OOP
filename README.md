@@ -1,2 +1,1 @@
-# Lab9OOP
-Lab work for UCU 
+# Lab_8_OOP_JAVA
